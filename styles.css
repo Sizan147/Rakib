@@ -1,0 +1,18 @@
+
+body {
+    font-family: 'Nunito';font-size: 22px;
+    background-color: powderblue;
+}hr{
+  border-style: none;
+        border-top-style: dotted ;
+        border-color: grey;
+        border-width: 3px;
+        width:100%;
+
+}
+h1{
+    color: #80B9AD;
+}
+h2{
+   color:  #80B9AD;
+}
